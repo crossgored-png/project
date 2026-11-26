@@ -1,0 +1,9 @@
+{
+  "name": "archess-server",
+  "version": "1.0.0",
+  "description": "Server pencocokan lawan dan relay WebSocket untuk ARChess",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "engines": { "node": ">=14.17" },
+  "license": "MIT"
+}
